@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SpawnScript : MonoBehaviour {
+public class AwardClicker : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {

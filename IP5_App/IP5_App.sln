@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IP5_App", "IP5_App.csproj", "{A6061F17-49A2-3D6E-E1E4-CEF3F49E0813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IP5_App.Editor", "IP5_App.Editor.csproj", "{44C7D9FF-529F-632B-E072-923ECF1D7ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6061F17-49A2-3D6E-E1E4-CEF3F49E0813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6061F17-49A2-3D6E-E1E4-CEF3F49E0813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6061F17-49A2-3D6E-E1E4-CEF3F49E0813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6061F17-49A2-3D6E-E1E4-CEF3F49E0813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44C7D9FF-529F-632B-E072-923ECF1D7ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C7D9FF-529F-632B-E072-923ECF1D7ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C7D9FF-529F-632B-E072-923ECF1D7ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C7D9FF-529F-632B-E072-923ECF1D7ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
