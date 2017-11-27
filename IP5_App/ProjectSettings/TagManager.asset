@@ -8,6 +8,8 @@ TagManager:
   - Character
   - Glove
   - Target
+  - Diamand
+  - Diamando
   layers:
   - Default
   - TransparentFX
